@@ -1,0 +1,13 @@
+.build/
+*.ipa
+Payload/
+TrollAgent.app/
+.DS_Store
+__MACOSX/
+dl_*
+artifacts
+
+CISH/include/ish/
+TrollAgent.tipa
+TrollAgent.tipa.sha256
+TrollAgent.zip
